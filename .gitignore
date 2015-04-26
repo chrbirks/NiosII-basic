@@ -1,0 +1,6 @@
+*.bak
+*.elf
+*.o
+*.srec
+*.amp
+output_files/

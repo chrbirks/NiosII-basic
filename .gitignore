@@ -3,4 +3,15 @@
 *.o
 *.srec
 *.amp
+*.qws
 output_files/
+
+.qsys_edit/
+db/
+incremental_db/
+nios_system/nios_system.bsf
+nios_system/nios_system.cmp
+nios_system/nios_system.html
+nios_system/nios_system.xml
+nios_system/synthesis/
+simulation/
